@@ -1,0 +1,20 @@
+{
+    "name": "基岩镐",
+    "icon": "turtlemancy:bedrock_pickaxe",
+    "category": "turtlemancy:items",
+    "flag": "turtlemancy:bedrockPickaxeEnabled",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:bedrock_pickaxe",
+        	"title": "基岩稿",
+        	"text": "这种由基岩和火焰棒制成的镐能够挖透基岩（但会消耗很多耐久）小心你踩到的地方！一失足成千古恨。",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "crafting",
+        	"recipe": "turtlemancy:bedrock_pickaxe",
+        	"title": "基岩镐"
+        }
+    ]
+}

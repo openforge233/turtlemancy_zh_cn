@@ -1,0 +1,21 @@
+{
+    "name": "海之手镯",
+    "icon": "turtlemancy:heart_of_the_sea_bracelet",
+    "category": "turtlemancy:equipment",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "海之手镯",
+        	"item": "turtlemancy:heart_of_the_sea_bracelet",
+            "text": "这个$(thing)饰品$()会让$(海龟术士)的潜能翻倍。有了这种 $(item)手镯$()，所有的咒语都会获得更快的施法速度并且更少地消耗魔杖中的能量。$(item)海之手镯$() 可以通过进行 $(l)$(l:turtlemancy:rituals/turtle_lovers_rituals#ritual_of_the_sea)海洋仪式$() 获得。"
+        },
+        {
+            "type": "turtlemancy:good_ritual_recipe",
+            "recipe": "turtlemancy:heart_of_the_sea_bracelet",
+            "title": "海洋仪式",
+            "description": "你可以通过这个仪式获得 $(l:turtlemancy:equipment/bracelet_of_the_sea)$(item)海之手镯$().",
+            "link_recipe": true,
+            "anchor": "ritual_of_the_sea"
+        }
+    ]
+}

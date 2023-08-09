@@ -1,0 +1,20 @@
+{
+    "name": "人类珍珠",
+    "icon": "turtlemancy:human_pearl",
+    "category": "turtlemancy:items",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:human_pearl",
+        	"title": "人类珍珠",
+        	"text": "这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)村庄$().",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "turtlemancy:turtlemy_recipe",
+            "recipe": "turtlemancy:human_pearl",
+            "title": "人类珍珠",
+            "text": "人性本真 无善无恶 无美无丑 (human like) 珍珠将会带领你前往村庄. 卑鄙的人类不是爱龟人士，那就去夺走他们的绿宝石!"
+        }
+    ]
+}

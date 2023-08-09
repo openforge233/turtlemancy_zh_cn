@@ -1,0 +1,18 @@
+{
+    "name": "魔法贝壳项链",
+    "icon": "turtlemancy:bewitched_shell_necklace",
+    "category": "turtlemancy:equipment",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "魔法贝壳项链",
+        	"item": "turtlemancy:bewitched_shell_necklace",
+            "text": "这个$(thing)饰品$(), 由于魔法贝壳的神奇特性和珍珠的耀眼光芒, 会给它的穿戴者无限的水下呼吸和水下夜视能力。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "turtlemancy:bewitched_shell_necklace",
+            "link_recipe": true
+        }
+    ]
+}

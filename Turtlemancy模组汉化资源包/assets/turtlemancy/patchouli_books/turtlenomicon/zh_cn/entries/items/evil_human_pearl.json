@@ -1,0 +1,20 @@
+{
+    "name": "恶人珍珠",
+    "icon": "turtlemancy:evil_human_pearl",
+    "category": "turtlemancy:items",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:evil_human_pearl",
+        	"title": "恶人珍珠",
+        	"text": "这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)前哨站$() 结构.",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "turtlemancy:common_ritual_recipe",
+            "recipe": "turtlemancy:evil_human_pearl",
+            "title": "前哨仪式",
+            "description": "像人类的迂腐一样容易将人类腐蚀的人之珍珠."
+        }
+    ]
+}

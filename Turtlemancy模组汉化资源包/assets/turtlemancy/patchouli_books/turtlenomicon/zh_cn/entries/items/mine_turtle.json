@@ -1,0 +1,18 @@
+{
+    "name": "海龟矿雷",
+    "icon": "turtlemancy:mine_turtle",
+    "category": "turtlemancy:items",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:mine_turtle",
+        	"title": "海龟矿雷",
+        	"text": "$(l)嗷$(), 多么奇妙的物品啊... $(br2)不要 $(l)s$()tep on them or they will explo$(l)d$()e! Fill the $(l)f$()ield with this amazing traps!",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "crafting",
+        	"recipe": "turtlemancy:mine_turtle"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "空珍珠",
+    "icon": "turtlemancy:empty_pearl",
+    "category": "turtlemancy:items",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:empty_pearl",
+        	"title": "珍珠块",
+        	"text": "这颗珍珠可以根据珍珠内部被注入的物品，赋予这颗珍珠不同的状态来制作不同的珍珠。",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "crafting",
+        	"recipe": "turtlemancy:empty_pearl",
+        	"title": "珍珠块"
+        }
+    ]
+}

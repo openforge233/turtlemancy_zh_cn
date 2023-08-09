@@ -1,0 +1,20 @@
+{
+    "name": "注魔的牡蛎",
+    "icon": "turtlemancy:bewitched_shell",
+    "category": "turtlemancy:items",
+    "pages": [
+        { 
+        	"type": "spotlight",
+        	"item": "turtlemancy:bewitched_shell",
+        	"title": "注魔的牡蛎",
+        	"text": "这个 $(thing)注魔的牡蛎$() 用于多种配方.",
+        	"link_recipe": true
+        },
+        { 
+        	"type": "turtlemancy:common_ritual_recipe",
+            "recipe": "turtlemancy:bewitched_shell",
+            "title": "注魔的牡蛎",
+            "description": "这个仪式将把牡蛎变成 $(thing)注魔的牡蛎$()."
+        }
+    ]
+}
