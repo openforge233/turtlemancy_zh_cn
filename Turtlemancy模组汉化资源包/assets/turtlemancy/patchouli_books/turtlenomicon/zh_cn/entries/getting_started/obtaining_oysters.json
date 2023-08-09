@@ -1,24 +1,24 @@
 {
-    "name": "Obtaining Oysters",
+    "name": "获得 牡蛎",
     "icon": "turtlemancy:oyster_sand",
     "category": "turtlemancy:getting_started",
     "pages": [
         {
             "type": "spotlight",
         	"item": "turtlemancy:oyster_sand",
-            "text": "$(l:items/oyster)Oysters$() can be found in Beach Biomes inside of the sand. $(br1)You can obtain one by right clicking an Oyster Sand block or breaking it."
+            "text": "$(l:items/oyster)牡蛎$() 可以在沙滩群系上的沙子中找到。 $(br1)你可以通过右键或者破坏牡蛎沙的方式来获得它。"
         },
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:oyster",
-        	"title": "Oysters",
-        	"text": "There are ways to obtain pearls from $(l:items/oyster)Oysters$(), and $(turtlemancy)Turtlemancers$() often use them for various reasons."
+        	"title": "牡蛎",
+        	"text": " $(l:items/oyster)牡蛎$() 可以通过各种方式变成珍珠,  $(#009432)海龟术士$() 常常出于各种原因需要它们。"
         },
         { 
         	"type": "smelting",
         	"recipe": "turtlemancy:cooked_oyster_from_smelting",
-        	"title": "Oyster Sand",
-        	"text": "By cooking the oyster you lose the opportunity to get the pearl inside of it, but you earn a delicious food instead."
+        	"title": "牡蛎沙",
+        	"text": "通过烹饪牡蛎，你将失去它里面的珍珠，但你可以得一道佳肴。"
         }
     ]
 }

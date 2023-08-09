@@ -1,43 +1,43 @@
 {
-    "name": "Cool Non-Magical Items",
+    "name": "炫酷的麻瓜物品",
     "icon": "turtlemancy:mine_turtle",
     "category": "turtlemancy:getting_started",
     "pages": [
     	{
             "type": "text",
-            "text": "$(turtlemancy)Turtlemancers$() usually use some non-magical turtle-related cool items. Here are some of them for you to know about:"
+            "text": "$(turtlemancy)海龟术士$() 会经常使用一些和乌龟有关的麻瓜物品。下面是一些你应该知道的物品："
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:mine_turtle",
-            "text": "Don't step on them or they will explode! Fill the field with this amazing traps!"
+            "text": "别踩在它们上面，不然是会爆炸的！在地上放满这种刺激的陷阱吧！"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_bowl",
-            "text": "You can use it like a regular bowl, but food in this big bowl will last at least 10 meals!"
+            "text": "你可以把它当成一个普通的碗来使用，但是这个碗里的食物可以够你吃十次！"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_door",
-            "text": "A good looking door for a good looking turtlemancer."
+            "text": "好看的门配好看的你——亲爱的海龟术士"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:improved_turtle_door",
-            "text": "Just like an iron door, ¡but much greener!"
+            "text": "铁门, 但是绿得发光！"
         },
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:shell_of_encapsulation",
-        	"title": "Shell of Encapsulation",
+        	"title": "封运贝壳",
         	"flag": "turtlemancy:shellOfEncapsulationEnabled",
-        	"text": "This magical item is capable of holding a creature inside of it. Oh, but remember, this items does NOT work with monsters."
+        	"text": "这个神奇的物品可以装下一个生物。哦，对了，这个物品不能装入怪物。"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:pearl_block",
-            "text": "A new light source. This block made of pearls can light as much as the sea lantern."
+            "text": "一种新型光源。这个用珍珠制作的方块能像海晶灯一样发光。"
         }
     ],
     "sortnum": 5

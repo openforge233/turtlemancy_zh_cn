@@ -1,21 +1,21 @@
 {
-    "name": "Becoming a Turtlemancer",
+    "name": "成为海龟术士",
     "icon": "turtlemancy:turtlemancer_wand",
     "category": "turtlemancy:getting_started",
     "pages": [
         {
             "type": "text",
-            "text": "Hello, $(playername), I was waiting for you. $(br2)Today, your simple human life will change. I'll teach you how to become much more. I'll teach you how to become a... $(turtlemancer)."
+            "text": "你好, $(playername), 我等你很久了。 $(br2)即刻起,你枯燥的人类生活迎来了转折点。我将引领你学到更多知识——我会教你成为一个... $(海龟术士)."
         },
         { 
         	"type": "entity",
         	"entity": "minecraft:turtle",
         	"scale": 0.5,
-        	"text": "$(turtlemancy)Turtles$() are powerful magical creatures, but they don't know about it. They don't even care!"
+        	"text": "$(turtlemancy)海龟$()是神奇的魔法生物, 但是它们并不自知，甚至对此毫不关心！"
         },
         {
         	"type": "text",
-        	"text": "But we know about it now, and we can achieve enormous things using that power. $(br2)Not anyone can be a $(turtlemancer) anyway, to be one you need to gain their favor. You know what they say: $(br2)$(br)$(o)The Turtle chooses the Turtlemancer.$()"
+        	"text": "但是现在我们知道了这一点，并且能够借助这种力量成就一番大事业。 $(br2)不是所有人都可以成为 $(海龟术士) 。但无论怎样，一切都要从讨好它们开始。它们这样说: $(br2)$(br)$(o)是海龟在选择海龟术士$()"
         },
         { 
         	"type": "image",
@@ -23,7 +23,7 @@
         			"turtlemancy:textures/book/becoming_turtlemancer.png"
         	],
         	"border": true,
-        	"text": "To let a $(turtle) choose you, bow and look into it's eyes when it is looking at you."
+        	"text": "想要被 $(海龟) 选中, 要先深鞠一躬，并等它凝视你时再凝视它。"
         }
     ],
     "priority": true

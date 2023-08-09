@@ -1,17 +1,17 @@
 {
-    "name": "Kelp is the new Coal",
+    "name": "海带是新型煤炭",
     "icon": "minecraft:kelp",
     "category": "turtlemancy:getting_started",
     "pages": [
         {
             "type": "spotlight",
         	"item": "minecraft:kelp",
-            "text": "You will have it easy to obtain and dry kelp being a $(turtlemancer): $(br) $(li)Obtain $(item)Kelp$() with the $(l)$(l:spells/apprentice_spells#kelp_collector)Kelp Collector$() spell.$(br) $(li)Turn it to $(item)Dried Kelp$() with $(l)$(l:turtlemy/turtlemy_101)Turtlemy"
+            "text": "作为一个 $(#009432)海龟术士$()，你可以: $(br)$(li)通过$(l:spells/apprentice_spells#kelp_collector)海带收集$()术获得$(item)海带$()$()$(br)$(li)通过$(l:turtlemy/turtlemy_101)龟术$()把它干燥成 $(item)干海带$()$()$()$()"
         },
         {
             "type": "spotlight",
         	"item": "minecraft:dried_kelp_block",
-            "text": "Dried kelp blocks are much better than coal and, now, much easier to get!."
+            "text": "干海带块不仅比煤炭好多了，而且现在还更好获得！"
         }
     ]
 }

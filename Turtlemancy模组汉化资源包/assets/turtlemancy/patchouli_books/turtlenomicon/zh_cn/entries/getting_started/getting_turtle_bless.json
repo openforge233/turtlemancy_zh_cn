@@ -1,21 +1,21 @@
 {
-    "name": "Blessing & Curses",
+    "name": "祝福 & 诅咒",
     "icon": "turtlemancy:turtle_bless",
     "category": "turtlemancy:getting_started",
     "pages": [
         { 
         	"type": "text",
-        	"text": "This is important $(playername), pay attention. $(turtlemancy)Turtles$() blessings or cursed are the most important item to perform a ritual. Just remember this: don't dare you to kill a $(turtle). Turtles are special and, as a $(turtlemancer), your job is to take care of them, not to hurt them. $(br2)However, if you dare to cross that line... you will probably have struggles trying to get their forgiveness."
+        	"text": "重点来了，$(playername)，看黑板。 $(turtlemancy)海龟$() 的祝福和诅咒都说进行仪式的重要材料。忠告: 不要有放肆的想法去伤害 $(海龟)。海龟是很特殊的，作为一个 $(海龟术士)，你的职责是照顾好他们, 不是去伤害他们。 $(br2)然而, 你要是越过这条底线......那就等着费尽心思争得海龟们的原谅吧。"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_bless",
-            "text": "If you have never treated a $(turtle) the wrong way, when you bow and look to a $(turtle) (just like when you become a turtlemancer) the $(turtle) may $(turtlemancy)bless$() you. If that happens you will get the $(turtlemancy)blessing.$()"
+            "text": "如果你没有对 $(海龟) 做过什么错事, 当你凝视着$(海龟)时 (像你成为海龟术士时一样) ， $(海龟) 将会 $(turtlemancy)祝福$() 你。然后你就可以获得 $(turtlemancy)祝福$()了。"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_curse",
-            "text": "If you have ever treated a $(turtle) the wrong way, when you bow and look to a $(turtle) (just like when you become a turtlemancer) the $(turtle) may $(#d63031)curse$() you. If that happens you will get the $(#d63031)curse$()."
+            "text": "你要是对 $(海龟) 不敬, 当你凝视着$(海龟)时 (像你成为海龟术士时一样)，$(海龟) 将会 $(#d63031)诅咒$() 你。 然后你就可以获得 $(#d63031)诅咒$() 了。"
         }
     ]
 }

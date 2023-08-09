@@ -1,12 +1,12 @@
 {
-    "name": "Obaining Scute",
+    "name": "获得鳞甲",
     "icon": "minecraft:scute",
     "category": "turtlemancy:getting_started",
     "pages": [
         {
             "type": "spotlight",
         	"item": "minecraft:scute",
-            "text": "When a baby turtle grows up a piece of scute will be dropped. Not everyone knows about this, but the scute dropped by turtles may be buried in the sand. $(br2)If you need some scute desperately, you can always try to find it in the sand."
+            "text": "小海龟长大时会掉落一块鳞甲。 鲜有人知的是，海龟掉落的鳞甲可能会被埋藏在沙子里。$(br2)如果你急着要一些鳞甲，你可以试着在沙子里找找。"
         }
     ]
 }
