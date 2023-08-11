@@ -1,43 +1,43 @@
 {
-    "name": "Evil Rituals",
+    "name": "邪恶仪式",
     "icon": "turtlemancy:turtle_curse",
     "category": "turtlemancy:rituals",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Turtle Haters Rituals$() are those rituals that can only be performed by the Turtlemancers who treat turtles the wrong way. The $(thing)altar$() must be charged with $(#d63031)Turtles Curses$() to perform any of this rituals. $(br2)All sacrifices must be $(l)adult$() creatures."
+            "text": "$(#009432)厌龟者仪式$() 是只有虐待海龟的海龟术士才够格进行的仪式。必须使用  $(#d63031)海龟诅咒$() 给 $(thing)海龟术士祭坛$() 充能才能进行这些仪式。 $(br2)祭品必须是 $(l)成年$() 生物"
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:magma_heart",
-            "title": "Ritual of the Magma Heart",
-            "description": "This ritual will grant you a $(l:turtlemancy:equipment/magma_heart)$(item)Magma Heart$().",
+            "title": "熔岩之心仪式",
+            "description": "这个仪式会赐给你一个 $(l:turtlemancy:equipment/magma_heart)$(item)熔岩之心$()。",
             "anchor": "ritual_of_the_magma_heart"
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:death_and_life",
-            "title": "Ritual of Death and Life",
-            "description": "This ritual will kill a grown turtle and will create a $(turtlemancy)$(l)baby turtle$() in return.",
+            "title": "生死仪式",
+            "description": "生与死轮回不止。此仪式将会献祭一只成年海龟，并重铸一只$(#009432)$(l)小海龟$()，生与死的轮回就在于此。",
             "link_recipe": true
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "minecraft:wither_skeleton_skull",
-            "title": "Ritual of Death and Death",
-            "description": "With this machiavellian ritual you can obtain as a reward the $(item)Wither Skeleton skull.$()"
+            "title": "死丧仪式",
+            "description": "在进行此狡猾的仪式后你将会获得 $(item)凋零骷髅头颅$()。"
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:thorns",
-            "title": "Ritual of Thorn",
-            "description": "Enchant your equipment with $(thing)thorns$()."
+            "title": "荆棘仪式",
+            "description": "给你的装备附魔 $(thing)荆棘$()。"
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:nether_star_of_forgiveness",
-            "title": "Ritual of Forgiveness",
-            "description": "This is a redention ritual which will grant you the $(item)Nether Star of Forgiveness$()."
+            "title": "宽恕仪式",
+            "description": "这是能赠与你 $(item)宽恕之星$() 的救赎仪式。"
         }
     ],
     "sortnum": 3

@@ -7,14 +7,14 @@
         	"type": "spotlight",
         	"item": "minecraft:enchanted_book",
         	"title": "龟赐水下亲和力",
-        	"text": "提高你在水下挖掘的速度，使之大于不在水中挖掘的速度。",
+        	"text": "提高你在水下挖掘的速度，使之大于水外挖掘的速度。",
         	"link_recipe": true
         },
         { 
         	"type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:affinity",
             "title": "龟赐水下亲和力",
-            "description": "把你的装备附魔 $(turtlemancy)龟赐水下亲和力$()."
+            "description": "把你的装备附魔 $(#009432)龟赐水下亲和力$()。"
         }
     ]
 }

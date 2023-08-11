@@ -1,59 +1,59 @@
 {
-    "name": "Summoning",
+    "name": "龟术召唤",
     "icon": "minecraft:turtle_spawn_egg",
     "category": "turtlemancy:rituals",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Summoning$() is the way to get in front of you a specific creature. This rituals are like common rituals, can be performed with any charged $(thing)altar$(). $(br2)This kind of magic it's a fusion between turtlemy and rituals, in order to summon different creatures. Its procedure is like the ritual's but the altar item will be always an essence."
+            "text": "$(#009432)龟术召唤$() 是一种让特定生物出现在你跟前的方式。和基础仪式一样，可以通过任何充能的 $(thing)海龟术士祭坛$() 来进行。 $(br2)这是一种以召唤不同生物为目的的、龟术与仪式的结合。它的过程和仪式一样，但是都需要献祭一个精华。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_turtle",
-            "title": "Summon Turtle",
-            "description": "This ritual will summon a baby (near to grow) $(l)$(turtle)."
+            "title": "召唤海龟",
+            "description": "这个仪式会召唤一直(快长大的) $(l)$(#009432)小海龟$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_magma_turtle",
-            "title": "Summon Magmatic Turtle",
-            "description": "This ritual will summon a baby (near to grow) $(l)Magmatic Turtle."
+            "title": "召唤熔岩海龟",
+            "description": "这个仪式会召唤一直(快长大的) $(l)小熔岩海龟。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_witch",
-            "title": "Summon Witch",
-            "description": "This ritual will summon a $(l)$(thing)Witch$()."
+            "title": "召唤女巫",
+            "description": "T这个仪式会召唤一位 $(l)$(thing)女巫$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_slime",
-            "title": "Summon Slime",
-            "description": "This ritual will summon a $(l)$(thing)Slime$()."
+            "title": "召唤史莱姆",
+            "description": "这个仪式会召唤一只 $(l)$(thing)史莱姆$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_shulker",
-            "title": "Summon Shulker",
-            "description": "This ritual will summon a $(l)$(thing)Shulker$()."
+            "title": "召唤潜影贝",
+            "description": "T这个仪式会召唤一只 $(l)$(thing)潜影贝$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_skeleton_horse",
-            "title": "Summon Skeleton Horse",
-            "description": "This ritual will summon a $(l)$(thing)tamed Skeleton Horse$()."
+            "title": "召唤骷髅马",
+            "description": "T这个仪式会召唤一只 $(l)$(thing)已驯服的骷髅马$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_guardian",
-            "title": "Summon Guardian",
-            "description": "This ritual will summon a $(l)$(thing)Guardian$()."
+            "title": "召唤守卫者",
+            "description": "T这个仪式会召唤一只 $(l)$(thing)守卫者$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:summon_ghast",
-            "title": "Summon Ghast",
-            "description": "This ritual will summon a $(l)$(thing)Ghast$()."
+            "title": "召唤恶魂",
+            "description": "T这个仪式会召唤一只 $(l)$(thing)恶魂$()。"
         }
     ],
     "sortnum": 4

@@ -1,114 +1,114 @@
 {
-    "name": "Advanced Turtlemy",
+    "name": "进阶龟术",
     "icon": "minecraft:dragon_head",
     "category": "turtlemancy:turtlemy",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Turtlemy$() recipes in which essences are required. $(playername), better study first how to obtain those essences."
+            "text": "有些 $(#009432)龟术$() 配方需要精华。 $(playername)，最好先学学如何获得这些精华。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:leather",
-            "title": "Leather",
-            "text": "You don't have to kill those poor cows anymore, kill zombies instead!"
+            "title": "皮革",
+            "text": "你没必要再迫害那些可怜的牛儿了，杀僵尸来代替吧！"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:turtle_egg",
-            "title": "Turtle Egg",
-            "text": "One way to get a turtle egg, without the wand or silky touch, is by transmuting it. Be a Mommy!"
+            "title": "海龟蛋",
+            "text": "龟术转化是一种不需要法杖和精准采集的获取海龟蛋的方法。尝试做一个海龟保姆吧！"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:scute",
-            "title": "Scute",
-            "text": "Waiting for the $(turtlemancy)turtles$() to grow can be tedious, but thanks to $(turtlemancy)Turtlemy$() you'll get between 1 and 3 scutes."
+            "title": "鳞甲",
+            "text": "等待 $(#009432)海龟$() 长大总是很无聊，多亏了 $(#009432)龟术$() 你可以获得1到3个鳞甲。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:magma_turtle_egg",
-            "title": "Magmatic Turtle Egg",
-            "text": "One way to get a magmatic turtle egg, without the wand or silky touch, is by transmuting it. Be a Mommy!"
+            "title": "熔岩海龟蛋",
+            "text": "龟术转化是一种不需要法杖和精准采集的获取熔岩海龟蛋的方法。 尝试做一个海龟保姆吧！"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:magma_scute",
-            "title": "Magmatic Scute",
-            "text": "Waiting for the $(turtlemancy)magmatic turtles$() to grow can be tedious, but thanks to $(turtlemancy)Turtlemy$() you'll get between 1 and 3 scutes."
+            "title": "熔岩鳞甲",
+            "text": "等待 $(#009432)熔岩海龟$() 长大总是很无聊，多亏了 $(#009432)龟术$() 你可以获得1到3个熔岩鳞甲。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:rabbit_hide",
-            "title": "Rabbit Hide",
-            "text": "Stop killing those little rabbits right now! Here, take a pacific alternative."
+            "title": "无兔遁形",
+            "text": "兔兔这么可爱，就别欺负它了！现在，有一个和平的替代方案！"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:milk_bucket",
-            "title": "Milk Bucket",
-            "text": "Don't touch the cow like that! Gross! Just... just... take it's essence and turn it into milk, $(playername)."
+            "title": "奶桶",
+            "text": "$(playername)，不要那样乱摸奶牛！ 就这样！ 就......，就.....，把它的精华变成奶。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:turtlemy_ender_pearl",
-            "title": "Ender Pearl",
-            "text": "What a beatiful pearl. You need one $(item)Ender Pearl$() to make the recipe, but you get $(l)TWO$() in return."
+            "title": "末影珍珠",
+            "text": "多么好看的珍珠。 你只需要付出一个 $(item)末影珍珠$() 来得到这个配方,但你却能得到 $(l)两个$() 作为回报。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:human_pearl",
-            "title": "Human Pearl",
-            "text": "This not-beautiful but not-ugly (human like) pearl will lead you to a village. Sorround yourself with inferior and not turtle-lovers entities and take their emeralds!"
+            "title": "人类珍珠",
+            "text": "这种介于善恶之间（具有人性）的珍珠将会带你到达村庄。卑鄙的村民不是爱龟人士，那就去夺走它们的绿宝石！"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:spider_eye",
-            "title": "Spider Eye",
-            "text": "I don't know why anyone would want this sticky stinky thing but... Well, you can get it if you really want it."
+            "title": "蜘蛛眼",
+            "text": "我不知道谁会想制作这种黏糊糊的臭东西，但...如果你真的想制作的话，你是可以制作的。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:cobweb",
-            "title": "Cobweb",
-            "text": "Blending arthropod essence, a string and soul sand, it will be  transmuted into a spider web. Amazing, right?."
+            "title": "蜘蛛网",
+            "text": "把节肢动物的精华、丝线和灵魂沙搅拌在一起，把它们变成蜘蛛网。很神奇，对吧？"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:soul_sand",
-            "title": "Soul Sand",
-            "text": "If you are too lazy (but, as a proper Turtlemancer, not scared) for a walk in the nether, this recipe will get you the soul sand you need."
+            "title": "灵魂沙",
+            "text": "如果你懒得去下界走一遭(作为正经的海龟术士，不要害怕)，这个配方会给你需要的灵魂沙"
         },
        
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:heart_of_the_sea",
-            "title": "Heart of the Sea",
-            "text": "Turtles own the sea, and now, you too."
+            "title": "海洋之心",
+            "text": "海龟是海洋之主，现在，你也是了。"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:skeleton_skull",
-            "title": "Skeleton Skull",
-            "text": "$(turtlemancy)Turtlemancers$() are patient, for sure. But is anyone patient enough to wait for a thunder to strike near a creeper and pray for its explosion to affect the  mob?"
+            "title": "骷髅头颅",
+            "text": "$(#009432)海龟术士$() 们当然是很有耐心的。但谁又能沉下心来等到一声惊雷落在苦力怕身上，祈祷它的爆炸能影响到那些怪物呢？"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:zombie_head",
-            "title": "Zombie Head",
-            "text": "How does it smell? Bad. How does it look? Bad. How cool is that you can make one? Badass."
+            "title": "僵尸头颅",
+            "text": "闻起来怎么样？离谱。看起来怎么样？离谱。你做一个怎么样？离大谱。"
         },
         {
         	"type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:end_stone",
-            "title": "End Stone",
-            "text": "Is this The End?."
+            "title": "末地石",
+            "text": "结束了？"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "minecraft:dragon_head",
-            "title": "Dragon Head",
-            "text": "This is why violence is not the answer. There are other ways of obtaining whatever you want without hurting anyone. Like $(turtlemancy)Turtlemy$(), in this case."
+            "title": "龙首",
+            "text": "这就是为什么暴力不能解决问题了。总有别的方式可以绕开杀戮去获得你想要的东西。 这里， $(#009432)龟术$() 就是一个很好的例子。"
         }
     ],
     "sortnum": 3

@@ -1,29 +1,29 @@
 {
-    "name": "Spells 101: Proper Wands",
+    "name": "魔咒 101: 正义法杖",
     "icon": "turtlemancy:textures/entities/bubble.png",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Proper Wands",
+            "title": "正义法杖",
         	"item": "turtlemancy:turtle_bless",
-            "text": "This is the real magic, am I right $(playername)?$(br2)Craft your wands, charge them with turtles blessings and take over the world! (in a nice way). $(br2)Here, let me show you how to get each wand."
+            "text": "这才叫魔法——我说的对吧， $(playername)?$(br2)制造你的法杖，用海龟祝福充能，然后用温柔统治世界！$(br2)现在，让我给你看看如何制作法杖。"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtlemancer_basic_wand",
-        	"text": "The most basic $(turtlemancer) wand. Not capable of much, but it's a start."
+        	"text": "$(#009432)海龟术士$() 最基础的法杖。能力不强，但这是开始。"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtlemancer_wand",
-        	"text": "The common $(turtlemancer) wand. I have spent half my life using one like this. Good looking and powerful wand. A must have!"
+        	"text": "$(#009432)海龟术士$() 惯用的法杖。我用这法杖半辈子了。一个漂亮而强悍的法杖，你必须得整一个！"
         },
         {
             "type": "spotlight",
-            "title": "Advanced Wand",
+            "title": "高级海龟术士法杖",
         	"item": "turtlemancy:turtlemancer_advanced_wand",
-        	"text": "The most powerfull $(turtlemancer) wand. As powerful as it looks. However, it's not cheap.$(br2)To obtain this wand you have to perform $(l:rituals/common_rituals#ritual_good_wand)this ritual$()."
+        	"text": "最强大的 $(#009432)海龟术士$() 法杖。 就像它的外形。但是，它一点都不便宜。$(br2)想要获得这个法杖，你必须进行 $(l:rituals/common_rituals#ritual_good_wand)这个仪式$()。"
         }
     ],
     "priority": true,

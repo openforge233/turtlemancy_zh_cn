@@ -1,5 +1,5 @@
 {
-    "name": "Shell of Encapsulation",
+    "name": "蕴灵贝壳",
     "icon": "turtlemancy:shell_of_encapsulation",
     "category": "turtlemancy:items",
     "flag": "turtlemancy:shellOfEncapsulationEnabled",
@@ -7,14 +7,14 @@
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:shell_of_encapsulation",
-        	"title": "Shell of Encapsulation",
-        	"text": "This magical item is capable of holding a creature inside of it. Oh, but remember, this item does NOT work with monsters (or horses, currently).",
+        	"title": "蕴灵贝壳",
+        	"text": "这个神奇的物品能够将一个生物装在里面。嗷，但请记住，此物品不能将怪物装进去 (译注：目前模组1.1版本骡子和羊驼也都无法装进贝壳)。",
         	"link_recipe": true
         },
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:shell_of_encapsulation",
-        	"title": "Shell of Encapsulation"
+        	"title": "蕴灵贝壳"
         }
     ]
 }

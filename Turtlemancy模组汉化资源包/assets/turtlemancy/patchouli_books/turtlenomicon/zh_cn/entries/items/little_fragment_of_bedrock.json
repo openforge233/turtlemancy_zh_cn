@@ -7,7 +7,7 @@
         	"type": "spotlight",
         	"item": "turtlemancy:little_fragment_of_bedrock",
         	"title": "小碎片",
-        	"text": "这个小碎片可以用在 $(l)$(l:spells/advanced_spells#bedrock_breaker)基岩粉碎者$() 咒语.",
+        	"text": "这个小碎片可以通过 $(l)$(l:spells/advanced_spells#bedrock_breaker)基岩破坏$() 术获得。",
         	"link_recipe": true
         },
          { 
@@ -20,7 +20,7 @@
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:bedrock",
-        	"text": "嗷. 忍耐造就了海龟，而你，我的朋友，你将会创造基岩."
+        	"text": "嗷. 忍耐造就了海龟，而你，我的朋友，你将会创造基岩。"
         }
     ]
 }

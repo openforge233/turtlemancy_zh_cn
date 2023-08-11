@@ -7,14 +7,14 @@
         	"type": "spotlight",
         	"item": "turtlemancy:indestructible_pearl",
         	"title": "坚不可摧的珍珠",
-        	"text": "没有什么比这颗珍珠更牢固的了. 没有什么比这颗珍珠更牢固的了. 用于各种顶级配方，例如：改进魔杖或用于仪式上的高阶附魔.",
+        	"text": "没有什么比这颗珍珠更牢固的了。它被用于各种顶级配方，例如：改进法杖或用于仪式上的高阶附魔。",
         	"link_recipe": true
         },
         { 
         	"type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:indestructible_pearl",
             "title": "坚不可摧的珍珠仪式",
-            "description": "这个仪式使空珍珠成为有史以来最坚硬且冷酷无情的珍珠."
+            "description": "这个仪式使空珍珠成为有史以来最坚硬且冷酷无情的珍珠。"
         }
     ]
 }

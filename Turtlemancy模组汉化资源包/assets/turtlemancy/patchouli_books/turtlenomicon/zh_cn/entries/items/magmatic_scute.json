@@ -1,19 +1,19 @@
 {
-    "name": "熔岩鳞片",
+    "name": "熔岩鳞甲",
     "icon": "turtlemancy:magma_scute",
     "category": "turtlemancy:items",
     "pages": [
         {
             "type": "spotlight",
         	"item": "turtlemancy:magma_scute",
-        	"title": "熔岩壳",
-            "text": "您可以从岩浆龟或者几种奇妙的方式获得熔岩壳。这是一种神奇的材料，不要浪费它！"
+        	"title": "熔岩鳞甲",
+            "text": "您可以从岩浆龟或者几种奇妙的方式获得熔岩鳞甲。这是一种神奇的材料，不要浪费它！"
         },
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:improved_magma_scute",
-        	"title": "改进的鳞",
-        	"text": "熔岩鳞片的神奇改进版本。 您可以从以下位置获取它 $(l)$(l:turtlemy/basic_turtlemy#improved_magma_scute)this turtlemy recipe$().",
+        	"title": "升级鳞甲",
+        	"text": "熔岩鳞甲的神奇改进版本。 您可以通过这些方式获取它： $(l)$(l:turtlemy/basic_turtlemy#improved_magma_scute)龟术配方$()。",
         	"link_recipe": true
         }
     ]

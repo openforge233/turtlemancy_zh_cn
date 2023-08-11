@@ -1,27 +1,27 @@
 {
-    "name": "Rituals 101",
+    "name": "仪式 101",
     "icon": "turtlemancy:turtle_altar",
     "category": "turtlemancy:rituals",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Rituals 101",
+            "title": "仪式 101",
         	"item": "turtlemancy:turtle_altar",
-            "text": "Performing $(thing)rituals$() is not an easy task. Well, technically speaking it is. But let's pretend it's a hard task that only the chosen ones can perform. $(br)To begin with $(turtlemancy)Rituals$() you need: $(li)A $(item)Turtle Altar$()$(li)x3 $(turtlemancy)Turtles Blessing$() or $(#d63031)Turtles Curse$()."
+            "text": "进行 $(thing)仪式$() 可不是简单的任务。 额，至少从技术上讲是这样的。但是就让我们假装这是一项只有天选之子才能完成的艰巨任务吧。 $(br)要开始仪式 $(#009432)仪式$() ，你需要: $(li) $(item)海龟术士祭坛$() $(li)x3 $(#009432)海龟祝福$() 或 $(#d63031)海龟诅咒$()。"
         },
         {
             "type": "text",
-            "text": "The $(thing)altar$() itself its beautiful, but pretty useless. You have to charge it. To charge the altar you need to feed it with 3 blessings or curses. Once charged the $(thing)Altar$() will take an specific color: blue if its charged with blessings and red if it's charged with curses. $(br2)Some rituals don't care about how you charge the $(thing)altar$(), but some does, so read carefully, $(playername)."
+            "text": "这个 $(thing)祭坛$() 本身很美丽, 但是却很没用。 你需要给它充能。想要给祭坛充能，你需要喂给它3个海龟祝福或海龟诅咒。充能完成后祭坛就会有特殊的颜色：如果使用祝福充能，祭坛就是蓝色；如果使用诅咒充能，祭坛就是红色。 $(br2)有些仪式会关注你如何给 $(thing)祭坛$() 充能，但有些则不会。所以， $(playername) ，看书仔细点。"
         },
         {
             "type": "text",
-            "title": "How to perform a Ritual",
-            "text": "To perform a ritual you need to do the following:$(li)Charge the altar with the appropiate bless/curse$(li)Put in the altar the appropiate item$(li)Throw near the altar the right items$(li)A sacrifice (if required)"
+            "title": "如何进行仪式",
+            "text": "进行仪式的步骤如下：$(li)用合适的祝福/诅咒给祭坛充能$(li)把正确的物品放入祭坛$(li)把需要的物品丢在祭坛旁边$(li)献祭祭品（如果有要求）"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtle_altar",
-        	"text": "Remember to charge it. Don't make a fool of yourself asking a Turtlemancer why your ritual is not working if you haven't check if it's charged."
+        	"text": "记得给它充能。 别因为在没检查祭坛是否充能的情况下傻傻地去问为什么你不能进行你的仪式而闹笑话了。"
         }
     ],
     "priority": true,

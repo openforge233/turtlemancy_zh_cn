@@ -7,7 +7,7 @@
             "type": "spotlight",
             "title": "诺第留斯腰带",
         	"item": "turtlemancy:nautilus_belt",
-            "text": "这个$(thing)饰品$()是由相同的$(item)鹦鹉螺壳$()制成的。这个腰带可以减免摔落伤害"
+            "text": "这个 $(thing)饰品$() 是由相同的 $(item)鹦鹉螺壳$() 制成的。这个腰带可以减免摔落伤害"
         },
         {
             "type": "crafting",

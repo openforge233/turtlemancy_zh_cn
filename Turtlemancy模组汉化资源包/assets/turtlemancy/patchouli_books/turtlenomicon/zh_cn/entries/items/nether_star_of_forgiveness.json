@@ -1,20 +1,20 @@
 {
-    "name": "Nether Star of Forgiveness",
+    "name": "宽恕之星",
     "icon": "turtlemancy:nether_star_of_forgiveness",
     "category": "turtlemancy:items",
     "pages": [
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:nether_star_of_forgiveness",
-        	"title": "Star of Forgiveness",
-        	"text": "You have killed a $(turtle). That's terrible, but you have accepted what you did and you are ready to get back to the right track. This is the item for you. Consuming this item will grant you a return to the Proper Turtlemancer life. Just... Don't ruin it again, okey?",
+        	"title": "宽恕之星",
+        	"text": "你杀了一只 $(#009432)海龟$()。这太残暴了，好在你承认了你的罪过并做好了浪子回头的准备。这是为你设计的物品。消耗此物品可以使你回归正常的海龟术士生活。就是......别再破坏这样的生活了，好吗？",
         	"link_recipe": true
         },
         { 
         	"type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:nether_star_of_forgiveness",
-            "title": "Forgiveness Ritual",
-            "description": "This ritual will make the $(item)Nether Star of Forgiveness$()."
+            "title": "宽恕仪式",
+            "description": "这个仪式会做出 $(item)宽恕之星$()。"
         }
     ]
 }

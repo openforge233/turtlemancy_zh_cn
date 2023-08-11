@@ -1,13 +1,13 @@
 {
-    "name": "Turtle Door",
+    "name": "龟甲门",
     "icon": "turtlemancy:turtle_door",
     "category": "turtlemancy:items",
     "pages": [
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:turtle_door",
-        	"title": "Turtle Door",
-        	"text": "Just like an iron door, ¡but much greener!",
+        	"title": "龟甲门",
+        	"text": "像其他门一样, 但是更绿！",
         	"link_recipe": true
         },
         { 

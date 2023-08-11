@@ -1,5 +1,5 @@
 {
-    "name": "被诅咒的珍珠",
+    "name": "诅咒珍珠",
     "icon": "turtlemancy:cursed_pearl",
     "category": "turtlemancy:items",
     "pages": [
@@ -7,7 +7,7 @@
         	"type": "spotlight",
         	"item": "turtlemancy:cursed_pearl",
         	"title": "被诅咒的珍珠",
-        	"text": "当一颗空珍珠充满 $(#d63031)海龟的诅咒$(), 一个 $(#d63031)被诅咒的珍珠$() 就造好了.$(br2这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)下届要塞$().",
+        	"text": "当一颗空珍珠充满 $(#d63031)海龟的诅咒$(), 一个 $(#d63031)被诅咒的珍珠$() 就造好了。$(br2)这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)下界要塞$()。",
         	"link_recipe": true
         },
         { 

@@ -6,7 +6,7 @@
         {
             "type": "spotlight",
         	"item": "turtlemancy:oyster_sand",
-            "text": "$(l:items/oyster)牡蛎$() 可以在沙滩群系上的沙子中找到。 $(br1)你可以通过右键或者破坏牡蛎沙的方式来获得它。"
+            "text": "$(l:items/oyster)牡蛎$() 可以在沙滩群系上的沙子中找到。 $(br)你可以通过右键或者破坏牡蛎沙的方式来获得它。"
         },
         { 
         	"type": "spotlight",

@@ -1,17 +1,17 @@
 {
-    "name": "Pearl",
+    "name": "珍珠",
     "icon": "turtlemancy:pearl",
     "category": "turtlemancy:items",
     "pages": [
         {
             "type": "text",
-            "text": "Pearls are inside oysters and are used by $(turtlemancy)Turtlemancers$() in a lot of recipes.$(br2)There are several ways to obtain a pearl:$(li)$(l:spells/apprentice_spells#instant_pearl)With the Instant Pearl Speel$(li)$(l:turtlemy/basic_turtlemy)With a Turtlemy"
+            "text": "珍珠在牡蛎之中，被 $(#009432)海龟术士$() 们使用在许多配方中。$(br2)有几种方法可以获得珍珠:$(li)$(l:spells/apprentice_spells#instant_pearl)点蛎成珠术$(li)$(l:turtlemy/basic_turtlemy)龟术"
         },
         {
         	"type": "spotlight",
         	"item": "turtlemancy:pearl",
         	"title": "Obtaining the pearl",
-        	"text": "Any $(turtlemancer) wand can get instantly the pearl of the oyster by right-clicking any Oyster Sand block, but the oyster will be destroyed by the spell."
+        	"text": "任何 $(#009432)海龟术士$() 法杖都可以通过右键单击牡蛎沙块立即获得牡蛎中的珍珠，但牡蛎会被魔咒摧毁。"
         }
     ]
 }

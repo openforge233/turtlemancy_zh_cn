@@ -7,7 +7,7 @@
         	"type": "spotlight",
         	"item": "turtlemancy:mine_turtle",
         	"title": "海龟矿雷",
-        	"text": "$(l)嗷$(), 多么奇妙的物品啊... $(br2)不要 $(l)s$()tep on them or they will explo$(l)d$()e! Fill the $(l)f$()ield with this amazing traps!",
+        	"text": "$(l)嗷$(), 多么奇妙的物品啊...... $(br2)不要 $(l)踩$() 到他们否则他们会 爆$(l)炸$()! 用这个惊为天人的陷阱填满这片$(l)区$()域吧！",
         	"link_recipe": true
         },
         { 

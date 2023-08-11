@@ -5,7 +5,7 @@
     "pages": [
     	{
             "type": "text",
-            "text": "$(turtlemancy)海龟术士$() 会经常使用一些和乌龟有关的麻瓜物品。下面是一些你应该知道的物品："
+            "text": "$(#009432)海龟术士$() 会经常使用一些和海龟有关的麻瓜物品。下面是一些你应该知道的物品："
         },
         {
             "type": "spotlight",
@@ -20,7 +20,7 @@
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_door",
-            "text": "好看的门配好看的你——亲爱的海龟术士"
+            "text": "好看的门配好看的你——亲爱的海龟术士。"
         },
         {
             "type": "spotlight",
@@ -30,7 +30,7 @@
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:shell_of_encapsulation",
-        	"title": "封运贝壳",
+        	"title": "蕴灵贝壳",
         	"flag": "turtlemancy:shellOfEncapsulationEnabled",
         	"text": "这个神奇的物品可以装下一个生物。哦，对了，这个物品不能装入怪物。"
         },

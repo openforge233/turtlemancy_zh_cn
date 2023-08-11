@@ -1,52 +1,52 @@
 {
-    "name": "Essences",
+    "name": "精华",
     "icon": "turtlemancy:turtle_essence",
     "category": "turtlemancy:turtlemy",
     "pages": [
     	{
             "type": "text",
-            "text": "$(turtlemancy)Turtlemancers$() can obtain $(thing)essences$() out of different creatures. Many creatures may be different of each other, but in $(thing)essence$(), they are the same. Currently we have discovered $(thing)7$() different $(thing)essences$():$(li)$(turtlemancy)Turtle Essence$()$(li)$(#d63031)Arthropod Essence$()$(li)$(#0984e3)Water Creature Essence$()$(li)$(#ff7675)Animal Essence$()$(li)$(#636e72)Undead Essence$()$(li)$(#fab1a0)Human Essence$()$(li)$(#6c5ce7)End Essence$()"
+            "text": "$(#009432)海龟术士$() 可以从不同的生物中获得 $(thing)精华$()。也许生物们各不相同，但放在 $(thing)精华$() 里，众生平等。 目前我们已经发现了 $(thing)7$() 种不同的 $(thing)精华$():$(li)$(#0984e3)海龟精华$()$(li)$(#d63031)节肢精华$()$(li)$(#0984e3)水生精华$()$(li)$(#ff7675)动物精华$()$(li)$(#636e72)亡灵精华$()$(li)$(#fab1a0)人类精华$()$(li)$(#6c5ce7)末影精华$()"
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:turtle_essence",
-            "text": "Use an empty glass bottle on a $(turtle) to get this $(thing)essence$().",
+            "text": "对着 $(#009432)海龟$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:arthropod_essence",
-            "text": "Use an empty glass bottle on a $(#d63031)spider$() (of any kind), $(#d63031)endermite$(), $(#d63031)bee$(), or $(#d63031)silver fish$() to get this $(thing)essence$().",
+            "text": "对着 $(#d63031)蜘蛛$() (任意种类), $(#d63031)末影螨$(), $(#d63031)蜜蜂$(), 或者 $(#d63031)蠹虫$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:water_creature_essence",
-            "text": "Use an empty glass bottle on a $(#0984e3)fish$()(of any kind), $(#0984e3)dolphin$(), $(#0984e3)squid$(), $(#0984e3)guardian$() to get this $(thing)essence$().",
+            "text": "对着 $(#0984e3)鱼$()(任意种类), $(#0984e3)海豚$(), $(#0984e3)鱿鱼$(), $(#0984e3)守卫者$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:animal_essence",
-            "text": "Use an empty glass bottle on any $(#ff7675)animal$() which doesn't belong to any of the previous categories to get this $(thing)essence$().",
+            "text": "对着任意前面未提及的 $(#ff7675)动物$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:undead_essence",
-            "text": "Use an empty glass bottle on any $(#636e72)undead$() creature to get this $(thing)essence$().",
+            "text": "对着 $(#636e72)亡灵$() 生物 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:human_essence",
-            "text": "Use an empty glass bottle on any living $(#fab1a0)human$() creature to get this $(thing)essence$().",
+            "text": "对着活着的 $(#fab1a0)人型生物$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         },
         {
             "type": "spotlight",
         	"item": "turtlemancy:enderman_essence",
-            "text": "Use an empty glass bottle on an $(#6c5ce7)enderman$() to get this $(thing)essence$().",
+            "text": "对着 $(#6c5ce7)末影人$() 使用玻璃瓶可以获得 $(thing)这个精华$()。",
             "link_recipe": true
         }
     ],

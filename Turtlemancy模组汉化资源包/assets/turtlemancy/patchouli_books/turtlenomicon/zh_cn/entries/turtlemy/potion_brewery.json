@@ -1,29 +1,29 @@
 {
-    "name": "Potion Brewery",
+    "name": "药水酿造厂",
     "icon": "minecraft:potion",
     "category": "turtlemancy:turtlemy",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Turtlemancers$() have an $(thing)easy$() way of making $(thing)some$() potions. Which currently are:$(li)Harming Potion$(li)Poison Potion$(li)Regeneration Potion"
+            "text": "$(#009432)海龟术士$() 懂得  $(thing)一些$() 制造药水的 $(thing)捷径$()。 目前包括： $(li)伤害药水$(li)剧毒药水$(li)再生药水"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:harming_potion",
-            "title": "Harming Potion",
-            "text": "Just don't harm inoccent creatures, ok?"
+            "title": "伤害药水",
+            "text": "不要滥杀无辜，好吗？"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:poison_potion",
-            "title": "Poison Potion",
-            "text": "Just don't poison inoccent creatures, ok?"
+            "title": "剧毒药水",
+            "text": "不要随便下毒，好吗？"
         },
         {
             "type": "turtlemancy:turtlemy_recipe",
             "recipe": "turtlemancy:regeneration_potion",
             "title": "Regeneration Potion",
-            "text": "Just don't heal non-inoccent creatures, ok?"
+            "text": "不要治疗对手，好吗？"
         }
         
     ],

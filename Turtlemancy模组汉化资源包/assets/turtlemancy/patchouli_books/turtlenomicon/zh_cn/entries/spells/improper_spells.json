@@ -1,42 +1,42 @@
 {
-    "name": "Improper Spells",
+    "name": "不义魔咒",
     "icon": "turtlemancy:dark_turtlemancer_wand",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Advanced Spells",
+            "title": "不义魔咒",
         	"item": "turtlemancy:dark_turtlemancer_wand",
-            "text": "A compendium of the spells that only the dark wands can cast. $(br2)(This wand can also perform the apprentice spells except bubble related and defense)."
+            "text": "只有暗黑海龟术士法杖才能施展的魔咒概要。 $(br2)(这根法杖可以执行除了泡泡和防御之外的初级魔咒)。"
         },
         {
             "type": "image",
-            "title": "Lava Bubble",
+            "title": "熔岩泡泡",
         	"images":[ 
         			"turtlemancy:textures/book/lava_bubble.png"
         	],
         	"border": true,
-            "text": "Drags your target towards you. Also, heals it."
+            "text": "将你的目标拉向你面对的方向，同时治疗他。"
         },
         {
             "type": "image",
-            "title": "Self Lava Bubble I",
+            "title": "反身熔岩泡泡I",
             "images":[ 
         			"turtlemancy:textures/book/self_lava_bubble.png"
         	],
         	"border": true,
-            "text": "Pressing $(k:turtlemancy.selfbubble) you can go into the direction you are looking."
+            "text": "施展该魔咒时按下 $(k:turtlemancy.selfbubble) 键，你可以向你所面对的方向前进。"
         },
         {
             "type": "spotlight",
-            "title": "Trader Burst",
+            "title": "村民爆炸术",
         	"item": "minecraft:emerald",
-            "text": "There is nothing more anoying than the Wandering Trader. Proper Turtlemancer are always so nice to everyone... $(br)Not like us, some badass Improper Turtlemancers... Make him explode! Free emeralds! No one wants his useless trades anyways! Make him explode!"
+            "text": "没有什么比游荡的商人更烦人的了。正义的海龟术士们通常对所有生物都非常友好...... $(br)不像我们,一些邪恶的海龟术士......让它爆炸吧！免费的绿宝石！没有人需要他们无用的交易！让他爆炸吧哈哈哈哈！"
         },
         {
             "type": "text",
-            "title": "Evil Defense",
-            "text": "Use the wand while sneaking to get $(thing)Fire Resistance II$() at the cost of getting $(thing)Slowness I$()."
+            "title": "邪恶防御",
+            "text": "潜行右键使用该法术来获得 $(thing)火焰抗性II$() 代价是获得 $(thing)缓慢I$()。"
         }
     ],
     "sortnum": 5

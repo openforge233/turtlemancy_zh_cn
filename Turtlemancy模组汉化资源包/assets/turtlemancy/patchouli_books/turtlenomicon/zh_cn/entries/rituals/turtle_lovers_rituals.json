@@ -1,37 +1,37 @@
 {
-    "name": "Turtle Lovers Rituals",
+    "name": "爱龟者仪式",
     "icon": "turtlemancy:turtle_bless",
     "category": "turtlemancy:rituals",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Turtle Lovers Rituals$() are those rituals that can only be performed by the Turtlemancers who treat turtles the right way. The $(thing)altar() must be charged with $(turtlemancy)Turtles blessings$() to perform any of this rituals."
+            "text": "$(#009432)爱龟者仪式$()  是只有善待海龟的海龟术士才够格进行的仪式。必须使用 $(#009432)海龟祝福$() 给 $(thing)海龟术士祭坛$() 充能才能进行这些仪式。"
         },
         {
             "type": "turtlemancy:good_ritual_recipe",
             "recipe": "turtlemancy:heart_of_the_sea_bracelet",
-            "title": "Ritual of the Sea",
-            "description": "This ritual will grant you a $(l:turtlemancy:equipment/bracelet_of_the_sea)$(item)Bracelet of the Sea$().",
+            "title": "海洋仪式",
+            "description": "这个仪式会赐给你一个 $(l:turtlemancy:equipment/bracelet_of_the_sea)$(item)海之手镯$()。",
             "anchor": "ritual_of_the_sea"
         },
         {
             "type": "turtlemancy:good_ritual_recipe",
             "recipe": "turtlemancy:affinity",
-            "title": "Affinity Ritual",
-            "description": "Enchant your equipment with Turtles Aqua Affinity."
+            "title": "亲和仪式",
+            "description": "给你的装备附魔龟赐水下亲和力"
         },
         {
             "type": "turtlemancy:good_ritual_recipe",
             "recipe": "minecraft:trident",
-            "title": "Triton's Ritual",
-            "description": "This ritual will grant you the mighty $(item)trident$().",
+            "title": "卫海仪式",
+            "description": "这个仪式会赐给你一个 $(item)三叉戟$()。",
             "link_recipe": true
         },
         {
             "type": "turtlemancy:good_ritual_recipe",
             "recipe": "turtlemancy:unbreaking",
-            "title": "Ritual of Endurance",
-            "description": "Enchant your equipment with $(thing)Unbreaking.$()"
+            "title": "忍耐仪式",
+            "description": "给你的装备附魔 $(thing)耐久$()。"
         }
     ],
     "sortnum": 2

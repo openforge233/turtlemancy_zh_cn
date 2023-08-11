@@ -7,13 +7,13 @@
             "type": "spotlight",
             "title": "熔岩之心",
         	"item": "turtlemancy:magma_heart",
-            "text": "这个$(thing)饰品$()可以让 $(海龟术士) 在杀死生物时恢复饥饿度和生命值。$(item)熔岩之心$() 可以通过进行 $(l)$(l:turtlemancy:rituals/evil_rituals#ritual_of_the_magma_heart)熔岩仪式$()."
+            "text": "这个 $(thing)饰品$() 可以让 $(#009432)海龟术士$() 在杀死生物时恢复饥饿度和生命值。$(item)熔岩之心$() 可以通过进行 $(l)$(l:turtlemancy:rituals/evil_rituals#ritual_of_the_magma_heart)熔岩之心仪式$() 获得。"
         },
         {
             "type": "turtlemancy:dark_ritual_recipe",
             "recipe": "turtlemancy:magma_heart",
             "title": "熔岩仪式",
-            "description": "你可以通过这个仪式获得 $(l:turtlemancy:equipment/magma_heart)$(item)熔岩之心$().",
+            "description": "你可以通过这个仪式获得 $(l:turtlemancy:equipment/magma_heart)$(item)熔岩之心$()。",
             "link_recipe": true,
             "anchor": "ritual_of_the_magma_heart"
         }

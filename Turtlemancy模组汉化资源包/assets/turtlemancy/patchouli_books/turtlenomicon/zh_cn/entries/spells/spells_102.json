@@ -1,24 +1,24 @@
 {
-    "name": "Spells 102: Improper Wands",
+    "name": "魔咒 102: 不义法杖",
     "icon": "turtlemancy:textures/entities/evil_bubble.png",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Improper Wands",
+            "title": "不义法杖",
         	"item": "turtlemancy:turtle_curse",
-            "text": "Hear me out $(playername), this is not what you should be looking for.$(br2) This are the wrong wands to craft. To charge them you need turtle curses. And with them you can take over the world! (in a very wrong way) Let me show you how to get each wand anyway."
+            "text": "好好听我说完，$(playername)，你不应该在这种东西上打破砂锅问到底。$(br2) 合成这种法杖是错误的。你需要海龟的诅咒来给它们充能，然后用野心统治世界！算了，还是让你看看怎么制作这些法杖吧。"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:dark_turtlemancer_wand",
-        	"text": "The dark wand. Is not capable of making some of the spells that the proper wand can, but instead this wand can make other spells."
+        	"text": "邪恶的法杖。不能施展正义法杖的魔咒，但是能施展一写其它的咒语。"
         },
         {
             "type": "spotlight",
-            "title": "Dark Advanced Wand",
+            "title": "高级邪恶海龟术士法杖",
         	"item": "turtlemancy:dark_turtlemancer_advanced_wand",
-        	"text": "The most powerfull dark $(turtlemancer) wand. As powerful as it looks. However, it's not cheap. As the previous one, this one cannot make some of the spells the proper advanced wand can, but can make some others.$(br2)To obtain this wand you have to perform  $(l:rituals/common_rituals#ritual_evil_wand)this ritual$()."
+        	"text": "最强大的邪恶 $(#009432)海龟术士$() 法杖。就像它的外形。但是，它一点都不便宜。 和上一个法杖一样，不能施展正义法杖的魔咒，但是能施展一写其它的咒语。$(br2)想要获得这个法杖，你必须进行  $(l:rituals/common_rituals#ritual_evil_wand)这个仪式$()。"
         }
     ],
     "priority": true,

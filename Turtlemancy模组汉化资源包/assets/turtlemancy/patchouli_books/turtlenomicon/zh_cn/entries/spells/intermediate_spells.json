@@ -1,72 +1,72 @@
 {
-    "name": "Intermediate Spells",
+    "name": "中级魔咒",
     "icon": "turtlemancy:turtlemancer_wand",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Intermediate Spells",
+            "title": "中级魔咒",
         	"item": "turtlemancy:turtlemancer_wand",
-            "text": "A compendium of all the spells the turtlemancer wand can cast. $(br2)(This wand can also perform the apprentice spells)."
+            "text": "海龟术士法杖才能施展的法术概要。 $(br2)(这个法杖也可以施展初级魔咒)。"
         },
         {
             "type": "image",
-            "title": "Bubble Leviosa II",
+            "title": "泡波·勒维奥萨 II",
         	"images":[ 
         			"turtlemancy:textures/book/bubble.png"
         	],
         	"border": true,
-            "text": "It last longer. Also, it heals more."
+            "text": "持续时间更久，治疗效果更好。"
         },
         {
             "type": "image",
-            "title": "Self Bubble Leviosa II",
+            "title": "Self 泡波·勒维奥萨 II",
             "images":[ 
         			"turtlemancy:textures/book/self_bubble.png"
         	],
         	"border": true,
-            "text": "Pressing $(k:turtlemancy.selfbubble) you can get Bubble Leviosa II applied to yourself."
+            "text": "按 $(k:turtlemancy.selfbubble) 键 你就可以给自己施用 泡波·勒维奥萨 II "
         },
         {
             "type": "text",
-            "title": "Turtlemancer Defense II",
-            "text": "Use the wand while sneaking to get $(thing)Resistance II$() at the cost of getting $(thing)Slowness I$()."
+            "title": "龟术防御 II",
+            "text": "潜行时使用法杖可获得 $(thing)抗性提升 II$() ，代价是获得 $(thing)缓慢 I$()。"
         },
         {
             "type": "spotlight",
-            "title": "Sheep Burst",
+            "title": "羊羊爆炸术",
         	"item": "minecraft:white_wool",
-            "text": "Use the wand against a sheep to make it explode. Yeah. Turtles hate sheeps (but no more than chickens). Why? I don't know. Maybe because they are smooth, cozy and have nearly 360 degree vision. Explode sheeps and get a lot of wool."
+            "text": "对着一只羊使用它可以让羊爆炸。 是的，海龟们讨厌羊（但它们更讨厌鸡一点）。为什么呢？我不知道。也许是因为它们柔软、惬意，还有360度的视觉吧。炸掉羊羊，获得更多掉落物吧！"
         },
         {
             "type": "spotlight",
-            "title": "Squid Burst",
+            "title": "鱿鱼爆炸术",
         	"item": "minecraft:ink_sac",
-            "text": "Use the wand against a squid to make it explode. Yeah. Turtles hate squids (but no more than chickens). Why? I don't know. Maybe because they are ugly underwater monstrous animals. Explode squids and get a lot of ink."
+            "text": "对着一只羊使用它可以让羊爆炸。 是的，海龟们讨厌羊（但它们更讨厌鸡一点）。为什么呢？我不知道。也许是因为它们是丑陋的水下怪胎吧。炸掉鱿鱼，获得更多掉落物吧！"
         },
 		{
 			"type": "spotlight",
-			"title": "Instant Obsidian",
+			"title": "黑曜石收集术",
 			"item": "minecraft:obsidian",
-			"text": "Use the wand against obsidian to instantly pick it (even crying obsidian). $(br2)Obsidian is nothing for the strengh of a turtle. $(br2)Turtlemancers don't have to spent half a day to pick a single block (even if they are patient enough)."
+			"text": "对着黑曜石(甚至是哭泣的黑曜石)使用法杖就可以将其收集。 $(br2)在海龟的力量面前，黑曜石就是蝼蚁。 $(br2)海龟术士们再也不用花半天的时间来挖掘这么一个小小的方块了(就算他们足够耐心)。"
 		},
 		{
 			"type": "spotlight",
-			"title": "Bedrock Breaker",
+			"title": "基岩破坏术",
 			"item": "turtlemancy:little_fragment_of_bedrock",
-			"text": "Turtlemancers are really powerful. $(br2)Turtlemancers are so powerful that if they use their full power against a bedrock block they can pick up...$(br)a little fragment of it. $(br2)$(o)This spells needs full mana to work."
+			"text": "海龟术士们真的很厉害。$(br2)厉害到他们只要对着基岩使尽全力就能把基岩......$(br)的一小部分捡起来。 $(br2)$(o)这个魔咒需要满魔力才能施展。"
 		},
 		{
 			"type": "spotlight",
-			"title": "Flint Picker",
+			"title": "燧石收集术",
 			"item": "minecraft:flint",
-			"text": "Use the wand against gravel to get flint. Always."
+			"text": "对着沙砾使用法杖来获得燧石。就这样干。"
 		},
 		{
 			"type": "spotlight",
-			"title": "Clay Picker",
+			"title": "黏土收集术",
 			"item": "minecraft:clay",
-			"text": "Use the wand against clay to get a lot of clay balls."
+			"text": "对着黏土块使用法杖可以获得很多黏土。"
 		}    
 	],
     "sortnum": 3

@@ -1,22 +1,22 @@
 {
-    "name": "Turtlemy 101",
+    "name": "龟术 101",
     "icon": "turtlemancy:turtle_cauldron",
     "category": "turtlemancy:turtlemy",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Turtlemy 101",
+            "title": "龟术 101",
         	"item": "turtlemancy:turtle_cauldron",
-            "text": "Glad you are interested in $(turtlemancy)Turtlemy$(), $(playername). Let me make a quick introduction to how it works. To begin with $(turtlemancy)Turtlemy$() you need two things: a $(item)Turtle Cauldron$() and $(thing)water$()."
+            "text": "我很荣幸你对 $(#009432)龟术$() 感兴趣, $(playername)。 让我给你简短地介绍一下它的运作方式。想要开始学习 $(#009432)龟术$() 你需要两样东西: 一个 $(item)龟术坩锅$() 和 $(thing)水$()。"
         },
         {
             "type": "text",
-            "text": "As a $(turtlemancer) you must know how powerful $(thing)water$() is and that heating it won't make the $(thing)water$() more powerful or anything.$(br2)So, unlike other $(thing)alchemy$() systems, with $(turtlemancy)Turtlemy$() you don't need to heat the $(thing)water$() therefore, don't be afraid of making a mistake in $(turtlemancy)Turtlemy$(). You won't lose your items."
+            "text": "作为一个 $(#009432)海龟术士$() 你必须要知道 $(thing)水$() 是多么的强大，把它煮沸是多么的徒劳，以至于不会让 $(thing)水$() 多出半分力量。$(br2)所以，不像其它 $(thing)炼金$() 系统， $(#009432)龟术$() 不需要你加热 $(thing)水$()。因此，不要害怕在 $(#009432)龟术$() 中犯错误，你不会失去什么物品的。"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtle_cauldron",
-        	"text": "Remember to fill it with water, don't make a fool of yourself throwing stuff into an empty cauldron."
+        	"text": "记得用水填满它，不要傻傻地把你的东西扔进一个空的锅里。"
         }
     ],
     "priority": true,

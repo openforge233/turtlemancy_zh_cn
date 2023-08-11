@@ -1,5 +1,5 @@
 {
-    "name": "被注入祝福的珍珠",
+    "name": "祝福珍珠",
     "icon": "turtlemancy:blessed_pearl",
     "category": "turtlemancy:items",
     "pages": [
@@ -7,7 +7,7 @@
         	"type": "spotlight",
         	"item": "turtlemancy:blessed_pearl",
         	"title": "被注入祝福的珍珠",
-        	"text": "当一颗空珍珠充斥着 $(turtlemancy)海龟的祝福$(), 一个 $(turtlemancy)被注入祝福的珍珠$() 就造好了. $(br2)这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)海洋之碑$().",
+        	"text": "当一颗空珍珠充斥着 $(turtlemancy)海龟的祝福$(), 一个 $(turtlemancy)被注入祝福的珍珠$() 就造好了. $(br2)这颗珍珠可以像末影之眼一样使用，它会带领你找到最近的 $(thing)海底神殿$()。",
         	"link_recipe": true
         },
         { 

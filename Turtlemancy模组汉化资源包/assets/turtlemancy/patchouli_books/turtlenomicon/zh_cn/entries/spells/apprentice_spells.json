@@ -1,68 +1,68 @@
 {
-    "name": "Apprentice Spells",
+    "name": "初级魔咒",
     "icon": "turtlemancy:turtlemancer_basic_wand",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Apprentice Spells",
+            "title": "初级魔咒",
         	"item": "turtlemancy:turtlemancer_basic_wand",
-            "text": "A compendium of all the spells the basic wand can cast."
+            "text": "初级法杖可以施展的所有魔咒的概要。"
         },
         {
             "type": "image",
-            "title": "Bubble Leviosa",
+            "title": "泡波·勒维奥萨",
         	"images":[ 
         			"turtlemancy:textures/book/bubble.png"
         	],
         	"border": true,
-            "text": "Trap and levitate your target inside a bubble. Also, it heals them a bit."
+            "text": "将你的目标困在泡泡里使他们上升,此外,还能稍稍治愈他们"
         },
         {
             "type": "image",
-            "title": "Self Bubble Leviosa I",
+            "title": "反身泡泡包裹术I",
             "images":[ 
         			"turtlemancy:textures/book/self_bubble.png"
         	],
         	"border": true,
-            "text": "Pressing $(k:turtlemancy.selfbubble) you can get Bubble Leviosa applied to yourself."
+            "text": "施展该魔咒时按下 $(k:turtlemancy.selfbubble) 键，你就可以将泡波·勒维奥萨施加到自己身上。"
         },
         {
             "type": "text",
-            "title": "Turtles Defense",
-            "text": "Use the wand while sneaking to get $(thing)Resistance I$() at the cost of getting $(thing)Slowness I$()."
+            "title": "海龟盾",
+            "text": "潜行右键使用法杖以获得 $(thing)抗性I$() 代价是获得 $(thing)缓慢I$()。"
         },
         {
             "type": "spotlight",
-            "title": "Chicken Burst",
+            "title": "小鸡爆炸术",
         	"item": "minecraft:feather",
-            "text": "Use the wand against a chicken to make it explode. Yeah. Turtles hate chickens. Why? I don't know. Maybe becouse they are fast, light and cowards. Explode chickens and get a lot (and I mean a lot) of feathers."
+            "text": "将你的法杖对准一只鸡使其爆炸。毫无疑问。海龟们讨厌鸡。为啥呢?鬼知道。也许因为他们又快又轻又胆小。爆破小鸡来获得一些(我是说很多很多)羽毛。"
         },
         {
             "type": "spotlight",
-            "title": "Instant Pearl",
+            "title": "点蛎成珠术",
         	"item": "turtlemancy:pearl",
-            "text": "Use the wand against an Oyster Sand block to get the pearl.",
+            "text": "对着牡蛎沙使用法杖来获取该珍珠。",
             "anchor": "instant_pearl"
         },
         {
             "type": "spotlight",
-            "title": "Kelp Collector",
+            "title": "海藻生长术",
         	"item": "minecraft:kelp",
-            "text": "Use the wand against kelp to get it it in massive ammounts.",
+            "text": "用法杖敲打海藻使其大量生长。",
             "anchor": "kelp_collector"
         },
         {
             "type": "spotlight",
-            "title": "Egg Picker",
+            "title": "蛋蛋拾取",
         	"item": "minecraft:turtle_egg",
-            "text": "Use the wand against a turttle egg (or on a magmatic turtle egg) to pick it without silky touch.$(br2)If there are multiple eggs you will only pick one at a time."
+            "text": "将法杖对准海龟蛋(或者熔岩海龟蛋)来采集他们。$(br2)如果那有不止一个,你一次只能拿取一个。"
         },
         {
             "type": "spotlight",
-            "title": "Seagrass Collector",
+            "title": "海草生长术",
         	"item": "minecraft:seagrass",
-            "text": "Use the wand against seagrass to get it it massive ammounts."
+            "text": "用法杖敲打海草使其大量生长。"
         }
     ],
     "sortnum": 2

@@ -1,63 +1,63 @@
 {
-    "name": "Common Rituals",
+    "name": "基础仪式",
     "icon": "turtlemancy:indestructible_pearl",
     "category": "turtlemancy:rituals",
     "pages": [
         {
             "type": "text",
-            "text": "$(turtlemancy)Common Rituals$() are those rituals that doesn't care about how you charged the rituals. Being a common ritual doesn't mean that the ritual is less powerfull.$(br2)Here are all the common rituals:"
+            "text": "$(#009432)基础仪式$() 是不在乎你如何去充能的仪式。但作为一种基础仪式并不意味着它的力量就不强大了。以下是所有基础仪式:"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:bewitched_shell",
-            "title": "Bewitched Ritual",
-            "description": "This ritual will grant you a $(item)Bewitched Shell.$()"
+            "title": "注魔仪式",
+            "description": "这个仪式会给予你一个 $(item)注魔贝壳$()。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:turtle_boots",
-            "title": "Lost Feathers Ritual",
-            "description": "Enchant your equipment with Feather Falling."
+            "title": "迷失之羽仪式",
+            "description": "用飘落的羽毛来附魔你的装备。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:evil_human_pearl",
-            "title": "Outpost Ritual",
-            "description": "Money corrupts people and so does this ritual with the Human pearl."
+            "title": "前哨仪式",
+            "description": "金钱侵蚀着人类，人类珍珠仪式亦是如此。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:tipped_arrows",
-            "title": "Tipped Arrows",
-            "description": "Put easily your potions in your arrows."
+            "title": "注药之箭仪式",
+            "description": "轻易地将药水注入箭头中。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:indestructible_pearl",
-            "title": "Indestructible Pearl Ritual",
-            "description": "This ritual will make of the empty pearl the hardest and cooler pearl ever."
+            "title": "坚不可摧的珍珠仪式",
+            "description": "这种仪式将使空珍珠成为有史以来最坚不可摧的珍珠。"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:turtlemancer_advanced_wand",
-            "title": "Proper Ascension Ritual",
-            "description": "This ritual improves the $(turtlemancy)Turtlemancer Wand$() into a $(turtlemancy)Advanced Turtlemancer Wand$().",
+            "title": "正义泡升仪式",
+            "description": "这种仪式将 $(#009432)海龟术士法杖$() 改良为 $(#009432)高级海龟术士法杖$()。",
             "link_recipe": true,
             "anchor": "ritual_good_wand"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:dark_turtlemancer_advanced_wand",
-            "title": "Improper Ascension Ritual",
-            "description": "This ritual improves the $(#d63031)Dark Turtlemancer Wand$() into a $(#d63031)Dark Advanced Turtlemancer Wand$().",
+            "title": "不义泡升仪式",
+            "description": "这种仪式将 $(#d63031)邪恶海龟术士法杖$() 改良为 $(#d63031)高级邪恶海龟术士法杖$()。",
             "link_recipe": true,
             "anchor": "ritual_evil_wand"
         },
         {
             "type": "turtlemancy:common_ritual_recipe",
             "recipe": "turtlemancy:repair_ritual",
-            "title": "Repair Ritual",
-            "description": "This ritual repairs any damaged item in exchange of a lot of Bedrock.",
+            "title": "修复仪式",
+            "description": "这个仪式修复任何消耗耐久的物品（基岩镐）以换取大量的基岩。",
             "link_recipe": true
         }
     ],

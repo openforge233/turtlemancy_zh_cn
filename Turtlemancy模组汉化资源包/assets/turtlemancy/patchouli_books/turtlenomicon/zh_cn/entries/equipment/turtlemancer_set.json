@@ -7,18 +7,18 @@
             "type": "spotlight",
             "title": "海龟术士套装",
         	"item": "turtlemancy:turtle_helmet",
-            "text": "这套装备是最坚固的装备之一, 完全有能力接下致命一击。 $(br2)If you have equipped the whole set you will get a bonus of $(l)$(thing)6 hearts$() so... consider it, $(playername)."
+            "text": "这套装备是最坚固的装备之一, 完全有能力接下致命一击。 $(br2)如果你有穿整套的话，你会获得6颗心的奖励。$(playername)，不来试试吗......"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtle_helmet",
-        	"text": "Isn't this the coolest helmet you have ever seen?"
+        	"text": "这不会是你见过最酷的头盔吧？"
         },
         {
             "type": "crafting",
         	"recipe": "turtlemancy:turtle_chestplate",
         	"title": "胸甲",
-        	"text": "这大抵是必能抗住几次伤害了。去挑战一条龙或者别的什么去试试吧。嘿, 别当 $(thing)缩头乌龟$() 了。"
+        	"text": "这大抵是必能抗住几次伤害了。去挑战一条龙或者别的什么去试试吧。嘿, 别当 $(thing)缩头海龟$() 了。"
         },
         {
             "type": "crafting",

@@ -1,19 +1,19 @@
 {
-    "name": "Pearl Block",
+    "name": "珍珠块",
     "icon": "turtlemancy:pearl_block",
     "category": "turtlemancy:items",
     "pages": [
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:pearl_block",
-        	"title": "Pearl Block",
-        	"text": "This blocks are made from a bunch of $(item)pearls$(). They are a $(thing)light source$() block, so you can now forget about the darkness, my old friend.",
+        	"title": "珍珠块",
+        	"text": "这个方块是由一堆$(item)珍珠$()制成的。 它们是 $(thing)光源$() 方块, 所以你现在可以摒弃黑暗了，我的老朋友。",
         	"link_recipe": true
         },
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:pearl_block",
-        	"title": "Pearl Block"
+        	"title": "珍珠块"
         }
     ]
 }

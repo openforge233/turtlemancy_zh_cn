@@ -1,13 +1,13 @@
 {
-    "name": "Turtle Bowl",
+    "name": "龟壳碗",
     "icon": "turtlemancy:turtle_bowl",
     "category": "turtlemancy:items",
     "pages": [
         { 
         	"type": "spotlight",
         	"item": "turtlemancy:turtle_bowl",
-        	"title": "Turtle Bowl",
-        	"text": "In this big and comfy bowl food last longer, so... put stuff in there like you would with a regular bowl and be amazed: each food last 10 times longer.",
+        	"title": "龟壳碗",
+        	"text": "在这个大且舒适的碗里，食物的食用次数变得更多，所以...像用普通碗一样把东西放进去，然后你会感到无比惊讶：每种食物的保存时间是原来的10倍。",
         	"link_recipe": true
         },
         { 
@@ -29,20 +29,20 @@
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:suspicious_stew_from_poppy",
-        	"title": "Night Vision",
+        	"title": "夜视",
         	"link_recipe": true
         },
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:suspicious_stew_from_oxeye_daisy",
-        	"title": "Regeneration",
+        	"title": "生命恢复",
         	"link_recipe": true
         },
         
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:suspicious_stew_from_cornflower",
-        	"title": "Jump Boost",
+        	"title": "跳跃提升",
         	"link_recipe": true
         },
         
@@ -50,14 +50,14 @@
         	"type": "crafting",
         	"recipe": "turtlemancy:suspicious_stew_from_dandelion",
         	"recipe2": "turtlemancy:suspicious_stew_from_blue_orchid",
-        	"title": "Saturation",
+        	"title": "饱和",
         	"link_recipe": true
         },
         
         { 
         	"type": "crafting",
         	"recipe": "turtlemancy:suspicious_stew_from_allium",
-        	"title": "Fire Resistance",
+        	"title": "抗火",
         	"link_recipe": true
         }
     ]

@@ -1,61 +1,61 @@
 {
-    "name": "Advanced Spells",
+    "name": "高级魔咒",
     "icon": "turtlemancy:turtlemancer_advanced_wand",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Advanced Spells",
+            "title": "高级魔咒",
         	"item": "turtlemancy:turtlemancer_advanced_wand",
-            "text": "A compendium of all the spells the advanced turtlemancer wand can cast. $(br2)(This wand can also perform the apprentice and intermediate spells)."
+            "text": "高级术士法杖可以施展的所有魔咒的概要。 $(br2)(高级术士法杖可以施展学徒和中级魔咒)。"
         },
         {
             "type": "image",
-            "title": "Bubble Leviosa III",
+            "title": "泡波·勒维奥萨III",
         	"images":[ 
         			"turtlemancy:textures/book/bubble.png"
         	],
         	"border": true,
-            "text": "It last longer. Also, it heals more."
+            "text": "它持续时间更长,恢复得也更越多。"
         },
         {
             "type": "image",
-            "title": "Self Bubble Leviosa III",
+            "title": "反身泡波·勒维奥萨III",
             "images":[ 
         			"turtlemancy:textures/book/self_bubble.png"
         	],
         	"border": true,
-            "text": "Pressing $(k:turtlemancy.selfbubble) you can get Bubble Leviosa III applied to yourself."
+            "text": "施展该魔咒时按下 $(k:turtlemancy。selfbubble) 键，你就可以将泡波·勒维奥萨III施展于自身。"
         },
         {
             "type": "text",
-            "title": "Turtles Defense III",
-            "text": "Use the wand while sneaking to get $(thing)Resistance III$() at the cost of getting $(thing)Slowness I$()."
+            "title": "海龟盾III",
+            "text": "潜行右键使用法杖以获得 $(thing)抗性III$() ，代价是获得 $(thing)缓慢I$()。"
         },
         {
             "type": "spotlight",
-            "title": "Cow Burst",
+            "title": "牛牛爆炸术",
         	"item": "minecraft:leather",
-            "text": "Use the wand against a cow to make it explode. Yeah. Turtles hate cows too (no more than chickens though). Why? I don't know. Maybe becouse they are so big, racist and make awful sounds. Explode cows and get a lot of leather."
+            "text": "将你的法杖对准一头牛牛使其爆炸。毫无疑问,海龟也讨厌牛牛(同样它们也讨厌鸡)。为什么呢？我不知道。也许因为它们太大了,还歧视海龟发出可怕的声音。使牛牛爆炸并获得更多的掉落物。"
         },
         {
             "type": "spotlight",
-            "title": "Common Block Removal",
+            "title": "普通方块移除术",
         	"item": "minecraft:cobblestone",
-            "text": "Use the wand against common blocks to instantly remove them (without drops). This spell works with:$(li)Any stone block$(li)Diorite and Andesite$(li)Cobblestone$(li)Sand and any Sandstone$(li)Dirt$(li)Netherrack$(li)End stones"
+            "text": "对着一般方块使用法杖可以移除这个方块及其掉落物。该魔咒作用于:$(li)任意石头方块$(li)闪长岩和安山岩$(li)原石$(li)沙子和任意砂岩$(li)砂土$(li)下界岩$(li)末地石"
         },
         {
             "type": "spotlight",
-            "title": "Bedrock Breaker",
+            "title": "基岩破坏术",
         	"item": "turtlemancy:little_fragment_of_bedrock",
-            "text": "Turtlemancers are really powerful. $(br2)Turtlemancers are so powerful that if they use their full power against a bedrock block they can pick up...$(br)a little fragment of it.",
+            "text": "海龟术士们十分强大。 $(br2)海龟术士们是那样的强大，以至于如果他们对基岩使用全部力量,他们甚至可以捡起......$(br)基岩的一个小碎片。",
             "anchor": "bedrock_breaker"
         },
         {
             "type": "spotlight",
-            "title": "Ice Picker",
+            "title": "冰块拾取术",
         	"item": "minecraft:ice",
-            "text": "Use the wand against $(item)Ice$(), $(item)Packed Ice$() or $(item)Blue Ice$() to pick it."
+            "text": "将法杖对准 $(item)冰$(), $(item)浮冰$() 或者 $(item)蓝冰$() 来拾取它。"
         }
     ],
     "sortnum": 4

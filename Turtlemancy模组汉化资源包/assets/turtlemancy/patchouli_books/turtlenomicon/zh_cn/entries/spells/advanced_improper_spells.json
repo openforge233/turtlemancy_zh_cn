@@ -1,42 +1,42 @@
 {
-    "name": "Advanced Improper Spells",
+    "name": "高级邪恶魔咒",
     "icon": "turtlemancy:dark_turtlemancer_advanced_wand",
     "category": "turtlemancy:spells",
     "pages": [
         {
             "type": "spotlight",
-            "title": "Advanced Spells",
+            "title": "高级邪恶法术",
         	"item": "turtlemancy:dark_turtlemancer_advanced_wand",
-            "text": "A compendium of the spells that only the dark wands can cast. $(br2)(This wand can also perform the apprentice, intermediate and avanced spells except bubble related, defense and Cow Burst)."
+            "text": "只有高级邪恶海龟术士法杖才能施展的法术概要。 $(br2)(这个法杖可以施展学徒法术、中级法术和高级法术，除了泡泡魔法,龟遁术和牛牛爆炸术)。"
         },
         {
             "type": "image",
-            "title": "Lava Bubble II",
+            "title": "熔岩泡泡II",
         	"images":[ 
         			"turtlemancy:textures/book/lava_bubble.png"
         	],
         	"border": true,
-            "text": "Drags your target towards you more. Also, heals it more."
+            "text": "更强力地将目标拉向你,同时对其治疗。"
         },
         {
             "type": "image",
-            "title": "Self Lava Bubble II",
+            "title": "自体熔岩泡泡II",
             "images":[ 
         			"turtlemancy:textures/book/self_lava_bubble.png"
         	],
         	"border": true,
-            "text": "Pressing $(k:turtlemancy.selfbubble) you can go (more) into the direction you are looking."
+            "text": "按下 $(k:turtlemancy。selfbubble) 你可以向你所面对的方向前进"
         },
         {
             "type": "text",
-            "title": "Evil Defense II",
-            "text": "Use the wand while sneaking to get $(thing)Fire Resistance III$() at the cost of getting $(thing)Slowness I$()."
+            "title": "邪恶防御II",
+            "text": "潜行使用法术获得$(thing)抗火III$()代价是获得$(thing)缓慢I$()。"
         },
         {
             "type": "spotlight",
-            "title": "Turtle Burst",
+            "title": "龟壳爆裂",
         	"item": "minecraft:scute",
-            "text": "Use the wand against a $(turtle) to make it explode. Yeah. You hate Turtles. Why? I don't know. Maybe becouse you are fast, light, coward, smooth, cozy, big, racist, and you make awful sounds with your nearly 360 degree vision. $(br2)Explode turtles and get a lot of scute."
+            "text": "用法杖对着 $(#009432)海龟$() 使其爆炸。是啊，你非常讨厌海龟。为什么呢？我不知道。也许是因为你更快更轻、胆小圆滑，疯狂、巨大，还歧视着它们。而且你还用你几乎360度的视野发出可怕的声音。 $(br2) 爆炸海龟并以此获得大量的鳞甲。"
         }
     ],
     "sortnum": 6
