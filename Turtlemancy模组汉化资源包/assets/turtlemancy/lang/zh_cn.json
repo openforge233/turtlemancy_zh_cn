@@ -9,9 +9,9 @@
 	"item.turtlemancy.little_fragment_of_bedrock": "基岩粒",
 	"item.turtlemancy.fragment_of_bedrock": "基岩碎片",
 	"item.turtlemancy.bedrock_pickaxe": "基岩镐",
-	"item.turtlemancy.improved_scute": "升级的鳞片",
-	"item.turtlemancy.magma_scute": "熔岩鳞片",
-	"item.turtlemancy.improved_magma_scute": "改良的熔岩鳞片",
+	"item.turtlemancy.improved_scute": "升级鳞甲",
+	"item.turtlemancy.magma_scute": "熔岩鳞甲",
+	"item.turtlemancy.improved_magma_scute": "升级熔岩鳞甲",
 	"item.turtlemancy.turtle_boat": "海龟船",
 	"item.turtlemancy.turtle_bless": "海龟祝福",
 	"item.turtlemancy.turtle_curse": "海龟诅咒",
@@ -24,7 +24,7 @@
 	"item.turtlemancy.nether_star_of_forgiveness": "宽恕之星",
 	"item.turtlemancy.nether_star_of_forgiveness.tooltip.line1": "消耗它来获得海龟女神的宽恕",
 	
-	"item.turtlemancy.turtle_bowl": "海龟碗",
+	"item.turtlemancy.turtle_bowl": "龟壳碗",
 	"item.turtlemancy.beetroot_soup": "甜菜汤",
 	"item.turtlemancy.rabbit_stew": "炖兔肉",
 	"item.turtlemancy.mushroom_stew": "炖蘑菇",
@@ -35,8 +35,8 @@
 	"item.turtlemancy.suspicious_stew_night_vision": "夜视炖菜",
 	
 	"item.turtlemancy.turtle_essence": "海龟精华",
-	"item.turtlemancy.water_creature_essence": "水生物精华",
-	"item.turtlemancy.enderman_essence": "末影人精华",
+	"item.turtlemancy.water_creature_essence": "水生精华",
+	"item.turtlemancy.enderman_essence": "末影精华",
 	"item.turtlemancy.animal_essence": "动物精华",
 	"item.turtlemancy.human_essence": "人类精华",
 	"item.turtlemancy.undead_essence": "亡灵精华",
@@ -48,7 +48,7 @@
 	"item.turtlemancy.turtlemancer_basic_wand.tooltip.line1": "最基础的 \u00A72海龟术士\u00A7r 法杖。只能施展一级法术。",
 	"item.turtlemancy.turtlemancer_wand": "\u00A72海龟术士法杖",
 	"item.turtlemancy.turtlemancer_wand.tooltip.line1": "普通的 \u00A72海龟术士\u00A7r 法杖。能够施展一级和二级法术。",
-	"item.turtlemancy.turtlemancer_advanced_wand": "\u00A72海龟术士高级法杖",
+	"item.turtlemancy.turtlemancer_advanced_wand": "\u00A72高级海龟术士法杖",
 	"item.turtlemancy.turtlemancer_advanced_wand.tooltip.line1": "最强大的 \u00A72海龟术士\u00A7r 法杖。能够施展全部法术。",
 	
 	"item.turtlemancy.turtle_helmet": "海龟术士头盔",
@@ -61,10 +61,10 @@
 	"item.turtlemancy.magmatic_turtle_leggings": "岩龟术士护腿",
 	"item.turtlemancy.magmatic_turtle_boots": "岩龟术士靴",
 	
-	"item.turtlemancy.dark_turtlemancer_wand": "\u00A75 黑暗海龟术士法杖",
-	"item.turtlemancy.dark_turtlemancer_wand.tooltip.line1": "常见的 \u00A75黑暗海龟术士\u00A7r 法杖。能够施展几乎所有的一级和二级法术，但也能施展一些黑魔法……",
-	"item.turtlemancy.dark_turtlemancer_advanced_wand": "\u00A75黑暗海龟术士高级法杖",
-	"item.turtlemancy.dark_turtlemancer_advanced_wand.tooltip.line1": "最强大的 \u00A7r黑暗海龟术士\u00A7r 法杖。能够施展所有的黑魔法和大部分普通法术。",
+	"item.turtlemancy.dark_turtlemancer_wand": "\u00A75 邪恶海龟术士法杖",
+	"item.turtlemancy.dark_turtlemancer_wand.tooltip.line1": "常见的 \u00A75邪恶海龟术士\u00A7r 法杖。能够施展几乎所有的一级和二级法术，但也能施展一些黑魔法……",
+	"item.turtlemancy.dark_turtlemancer_advanced_wand": "\u00A75高级邪恶海龟术士法杖",
+	"item.turtlemancy.dark_turtlemancer_advanced_wand.tooltip.line1": "最强大的 \u00A7r邪恶海龟术士\u00A7r 法杖。能够施展所有的黑魔法和大部分普通法术。",
 	
 	"item.turtlemancy.bewitched_shell_necklace": "\u00A75魔法贝壳项链",
 	"item.turtlemancy.heart_of_the_sea_bracelet": "\u00A79海之手镯",
@@ -76,23 +76,23 @@
 	
 	"item.turtlemancy.spawn_egg_magma_turtle": "熔岩海龟刷怪蛋",
 	
-	"item.turtlemancy.shell_of_encapsulation": "\u00A72封装贝壳",
-	"item.turtlemancy.filled_shell_of_encapsulation": "\u00A72满载的封装贝壳",
-	"item.turtlemancy.filled_shell_of_encapsulation.desc": "装着： ",
+	"item.turtlemancy.shell_of_encapsulation": "\u00A72蕴灵贝壳",
+	"item.turtlemancy.filled_shell_of_encapsulation": "\u00A72蕴灵贝壳",
+	"item.turtlemancy.filled_shell_of_encapsulation.desc": "居住着： ",
 	
 	"block.turtlemancy.oyster_sand": "牡蛎沙",
 	"block.turtlemancy.pearl_block": "珍珠块",
-	"block.turtlemancy.turtle_cauldron": "海龟术士大锅",
+	"block.turtlemancy.turtle_cauldron": "龟术坩锅",
 	"block.turtlemancy.turtle_altar": "海龟术士祭坛",
 	"block.turtlemancy.mine_turtle": "海龟矿雷",
 	"block.turtlemancy.magma_turtle_egg": "熔岩海龟蛋",
-	"block.turtlemancy.turtle_door": "镀金盾型门",
-	"block.turtlemancy.improved_turtle_door": "改良的盾型门",
+	"block.turtlemancy.turtle_door": "龟甲门",
+	"block.turtlemancy.improved_turtle_door": "高级龟甲门",
 	
 	"entity.turtlemancy.magma_turtle": "熔岩海龟",
 	"entity.turtlemancy.turtle_boat": "海龟船",
 	
-	"container.turtlemancy.turtle_altar": "海龟祭坛",
+	"container.turtlemancy.turtle_altar": "海龟术士祭坛",
 	
 	"enchantment.turtlemancy.turtles_aqua_affinity": "龟赐水下亲和力",
 	
@@ -106,12 +106,12 @@
 	"advancement.turtlemancy.turtlemancer_basic_wand.desc": "获得最基础的海龟术士法杖。",
 	"advancement.turtlemancy.turtlemancer_wand": "像样的海龟术士",
 	"advancement.turtlemancy.turtlemancer_wand.desc": "获得普通的海龟术士法杖。",
-	"advancement.turtlemancy.turtlemancer_advanced_wand": "海龟术士大师",
+	"advancement.turtlemancy.turtlemancer_advanced_wand": "龟术大师",
 	"advancement.turtlemancy.turtlemancer_advanced_wand.desc": "获得高级的海龟术士法杖。",
 	"advancement.turtlemancy.dark_turtlemancer_wand": "不像样的海龟术士",
-	"advancement.turtlemancy.dark_turtlemancer_wand.desc": "获得普通的黑暗海龟术士法杖",
-	"advancement.turtlemancy.dark_turtlemancer_advanced_wand": "黑暗海龟术士大师",
-	"advancement.turtlemancy.dark_turtlemancer_advanced_wand.desc": "获得高级的黑暗海龟术士法杖。",
+	"advancement.turtlemancy.dark_turtlemancer_wand.desc": "获得普通的邪恶海龟术士法杖",
+	"advancement.turtlemancy.dark_turtlemancer_advanced_wand": "邪恶龟术大师",
+	"advancement.turtlemancy.dark_turtlemancer_advanced_wand.desc": "获得高级的邪恶海龟术士法杖。",
 	"advancement.turtlemancy.turtlemancer_armor": "海龟仙人",
 	"advancement.turtlemancy.turtlemancer_armor.desc": "集齐全套海龟术士盔甲。",
 	"advancement.turtlemancy.magmatic_turtlemancer_armor": "熔岩海龟仙人",
@@ -127,13 +127,13 @@
 	"advancement.turtlemancy.nether_star_of_forgiveness": "第二次机会",
 	"advancement.turtlemancy.nether_star_of_forgiveness.desc": "为你的罪孽向神道歉。",
 	
-	"jei.turtlemancy.turtlemy": "海龟",
+	"jei.turtlemancy.turtlemy": "龟术",
 	"jei.turtlemancy.ritual": "仪式",
 	
 	"patchouli.turtlemancy.name": "海龟之书",
 	"patchouli.turtlemancy.landing": "既能了解海龟，又能了解魔法。",
 	"patchouli.turtlemancy.turtle": "海龟",
-	"patchouli.turtlemancy.sacrifice": "一次牺牲",
+	"patchouli.turtlemancy.sacrifice": "要求献祭",
 	
 	"key.categories.turtlemancy": "海龟魔法"
 }
